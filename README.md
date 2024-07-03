@@ -32,7 +32,7 @@ Clone this repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/edge-avoiding-robot.git
+git clone https:/https://github.com/NishadGharote/Edge-Avoider-Robot/edit/main/README.md/github.com//edge-avoiding-robot.git
 Open the project in the Arduino IDE or your preferred development environment.
 
 Connect your ESP32 to your computer.
